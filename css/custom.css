@@ -27,7 +27,9 @@ h3 {
 .parallax-bg1 {
 	background: url(../images/hsu2015.jpg) 50% 0px no-repeat;
 }
-
+.default-bg {
+	background-color: rgba(95, 61, 34, 1);
+}
 blockquote.style1 {
   font: 16px/30px "微軟正黑體";
   padding: 30px;

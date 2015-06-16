@@ -31,19 +31,9 @@
   height: inherit;
 }
 
-/* line 37, ../sass/core/_global.scss */
-#footer {
-  margin: 2.25em auto;
-}
-/* line 39, ../sass/core/_global.scss */
-#footer p {
-  font-size: 14px;
-  line-height: 1;
-}
-
 /* line 66, ../sass/partials/_bootstrap.scss */
 .lte-ie9 .navbar .dropdown-menu li a {
-  color: #00acb3;
+  color: #000000;
 }
 /* line 69, ../sass/partials/_bootstrap.scss */
 .lte-ie9 .navbar .dropdown-menu .divider {
@@ -329,7 +319,7 @@ label.checkbox {
   outline: none;
   width: 30px;
   height: 30px;
-  background: #00acb3;
+  background: #000000;
   opacity: 1;
   border: 0px solid transparent;
   -webkit-border-radius: 15px;
@@ -346,14 +336,14 @@ label.checkbox {
 }
 /* line 100, ../sass/partials/_preview.scss */
 .preview #size-slider .zoomin {
-  color: #00acb3;
+  color: #000000;
   position: absolute;
   top: -15px;
   right: -17px;
 }
 /* line 106, ../sass/partials/_preview.scss */
 .preview #size-slider .zoomout {
-  color: #00acb3;
+  color: #000000;
   position: absolute;
   top: -15px;
   left: -17px;
@@ -475,14 +465,12 @@ label.checkbox {
 
 /* line 30, ../sass/partials/_rotate.scss */
 .ui-resizable-handle {
-  background: #f5dc58;
   border: 1px solid #FFF;
   z-index: 2;
 }
 
 /* line 35, ../sass/partials/_rotate.scss */
 .ui-rotatable-handle {
-  background: #f5dc58;
   border: 1px solid #FFF;
   border-radius: 5px;
   -moz-border-radius: 5px;
