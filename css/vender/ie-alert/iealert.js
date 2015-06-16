@@ -6,6 +6,7 @@
  */
 
 (function ($) {
+    console.log('initialize');
     function initialize($obj, support, title, text, upgradeTitle, upgradeLink, overlayClose, closeBtn) {
 
 
@@ -98,7 +99,7 @@
     }
 
     ; //end initialize function
-
+    console.log('add iealert');
     $.fn.iealert = function (options) {
         var defaults = {
             support:"ie8",
