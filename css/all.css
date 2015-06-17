@@ -161,6 +161,7 @@ label.checkbox {
   background-size: cover;
   background-position: center;
   width: 18%;
+  min-width:80px;
 }
 /* line 65, ../sass/partials/_generator.scss */
 #templates img {
