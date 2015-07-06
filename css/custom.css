@@ -31,10 +31,13 @@ h3 {
 	background-color: rgba(95, 61, 34, 1);
 }
 blockquote.style1 {
-  font: 16px/20px "微軟正黑體";
-  padding: 20px;
+  font: 16px/30px "微軟正黑體";
+  padding: 30px;
+  background-color: rgba(231, 166, 114, 0.5);
+  border-top: 2px solid rgba(231, 166, 114, 1);
+  border-bottom: 2px solid rgba(231, 166, 114, 1);
   margin: 5px;
-  text-indent: 20px;
+  text-indent: 30px;
   }
 
 
