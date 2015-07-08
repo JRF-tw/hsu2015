@@ -3,7 +3,7 @@
 		// Set the time at which the countdown expires.
 		// var untilDate new Date(Year, Month - 1, Day)
 		//-----------------------------------------------
-		var untilDate = new Date(2015, 7 - 1, 15);
+		var untilDate = new Date(2015, 7 - 1, 24);
 
 		$(".countdown").countdown({
 			until: untilDate, 
