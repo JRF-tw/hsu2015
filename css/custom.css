@@ -27,6 +27,9 @@ h3 {
 .parallax-bg1 {
 	background: url(../images/letter.jpg) 50% 0px no-repeat;
 }
+.parallax-bg2 {
+	background: url(../images/1995.jpg) 50% 0px no-repeat;
+}
 .default-bg {
 	background-color: rgba(95, 61, 34, 1);
 }
